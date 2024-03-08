@@ -1,0 +1,1 @@
+Save the file that you want to display in the Telegram bot channel chat box and provide the file path.
